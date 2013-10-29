@@ -1,0 +1,21 @@
+{
+  "name": "Elementary Parent Survey",
+  "description": "Parent Feedback Survey for LPPS",
+  "version": "0.1",
+  "app": {
+    "urls": [
+      "*://surveymonkey.com/s/XTNCDPW",
+      "*://www.surveymonkey.com/s/XTNCDPW"
+    ],
+    "launch": {
+      "web_url": "http://www.surveymonkey.com/s/XTNCDPW"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}
